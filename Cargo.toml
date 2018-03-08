@@ -1,0 +1,6 @@
+[package]
+name = "zsa-quotes-rs"
+version = "0.1.0"
+authors = ["Marcel Guzik <mguzik555@gmail.com>"]
+
+[dependencies]
